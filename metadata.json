@@ -1,0 +1,6 @@
+{
+  "name": "فضاء (Fadaa)",
+  "description": "A massive, production-ready, ultra-premium Super App combining Social Media, Advanced Chat, and Multimodal AI capabilities. Built with Jetpack Compose featuring a Glassmorphism UI theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
